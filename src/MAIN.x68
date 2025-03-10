@@ -1,6 +1,6 @@
 *-----------------------------------------------------------
 * Title      : Save ホロプロ！
-* Description: Ayuda tengo una obsesion por Hololive.
+* Description: m68K hololive themed game
 *-----------------------------------------------------------
 SCRNWDTH	EQU 640
 SCRNHGHT	EQU 480
