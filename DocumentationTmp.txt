@@ -1,0 +1,25 @@
+Enemies are loaded by files, this files are structured like:
+
+Test enemy bytes:
+0	type of enemy
+1   bool byte
+2	position X
+3	position X
+4	position Y
+5	position Y
+6	HP
+7   speed y
+8   animation bool
+9   padding
+
+Laplus bytes:
+0	type of enemy
+1   bool byte
+2	position X
+3	position X
+4	position Y
+5	position Y
+6	HP
+7   speed y
+8   animation bool
+9   padding
